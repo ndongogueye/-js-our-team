@@ -1,5 +1,5 @@
 
-let embriTeam = [
+let membriTeam = [
     {
       nome: "Mario Rossi",
       ruolo: "Sviluppatore",
